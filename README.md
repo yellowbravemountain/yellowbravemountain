@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yellowbravemountain
-- 👀 I’m interested in I dont know
+- 👀 I’m interested in learning things
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on sleeping in the office
-- 📫 How to reach me (please do not)
+- 📫 How to reach me joshua_weeyongsun@mymail.sutd.edu.sg
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: hehe
 
